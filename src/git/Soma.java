@@ -11,7 +11,7 @@ public class Soma {
 		result = x+y;
 	}
 	
-/*	public int getResult(){
+	public int getResult(){
 		return result;
-	}*/
+	}
 }
